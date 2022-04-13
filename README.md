@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sebatian Aguero, also know as Cuba, this is my repository.
 - 👀 i'm instersting in dev front end react js.
-- 🌱 I’m currently learning React and React native.
+- 🌱 I’m currently learning Javascript and React JS
 - 📫 How to reach me, cubaslife@gmail.com
 
 <!---
